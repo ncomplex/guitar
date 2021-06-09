@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.js": "https://ncomplex.github.io/guitar/static/js/main.b165b5dc.chunk.js",
+    "runtime-main.js": "https://ncomplex.github.io/guitar/static/js/runtime-main.a3558166.js",
+    "static/js/2.fc9da6bf.chunk.js": "https://ncomplex.github.io/guitar/static/js/2.fc9da6bf.chunk.js",
+    "static/js/3.1f19b42f.chunk.js": "https://ncomplex.github.io/guitar/static/js/3.1f19b42f.chunk.js",
+    "index.html": "https://ncomplex.github.io/guitar/index.html",
+    "static/js/2.fc9da6bf.chunk.js.LICENSE.txt": "https://ncomplex.github.io/guitar/static/js/2.fc9da6bf.chunk.js.LICENSE.txt",
+    "static/media/logo192.3754970d.png": "https://ncomplex.github.io/guitar/static/media/logo192.3754970d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a3558166.js",
+    "static/js/2.fc9da6bf.chunk.js",
+    "static/js/main.b165b5dc.chunk.js"
+  ]
+}
