@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.js": "https://ncomplex.github.io/guitar/static/js/main.279e18a0.chunk.js",
-    "runtime-main.js": "https://ncomplex.github.io/guitar/static/js/runtime-main.dd453378.js",
-    "static/js/2.a3abb6af.chunk.js": "https://ncomplex.github.io/guitar/static/js/2.a3abb6af.chunk.js",
-    "static/js/3.5f923c21.chunk.js": "https://ncomplex.github.io/guitar/static/js/3.5f923c21.chunk.js",
+    "main.js": "https://ncomplex.github.io/guitar/static/js/main.507e68dc.chunk.js",
+    "runtime-main.js": "https://ncomplex.github.io/guitar/static/js/runtime-main.b8a873a6.js",
+    "static/js/2.f9b4a105.chunk.js": "https://ncomplex.github.io/guitar/static/js/2.f9b4a105.chunk.js",
+    "static/js/3.7c5c459b.chunk.js": "https://ncomplex.github.io/guitar/static/js/3.7c5c459b.chunk.js",
     "index.html": "https://ncomplex.github.io/guitar/index.html",
-    "static/js/2.a3abb6af.chunk.js.LICENSE.txt": "https://ncomplex.github.io/guitar/static/js/2.a3abb6af.chunk.js.LICENSE.txt",
+    "static/js/2.f9b4a105.chunk.js.LICENSE.txt": "https://ncomplex.github.io/guitar/static/js/2.f9b4a105.chunk.js.LICENSE.txt",
     "static/media/logo192.3754970d.png": "https://ncomplex.github.io/guitar/static/media/logo192.3754970d.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.dd453378.js",
-    "static/js/2.a3abb6af.chunk.js",
-    "static/js/main.279e18a0.chunk.js"
+    "static/js/runtime-main.b8a873a6.js",
+    "static/js/2.f9b4a105.chunk.js",
+    "static/js/main.507e68dc.chunk.js"
   ]
 }
